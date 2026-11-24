@@ -1,6 +1,6 @@
 cask "tokens-are-running-out" do
-  version "0.2.0"
-  sha256 "80d7e8d0ae26f441e9a8de4543fe701fd11a2e66d0197546ff334799acb26fdf"
+  version "0.2.1"
+  sha256 "d1382bc08c7501ee14296e6c79105d9d66e71a76fbf9a428e705c78ceedb7187"
 
   url "https://github.com/bingoring/tokens-are-running-out/releases/download/v#{version}/TokensAreRunningOut-#{version}.zip"
   name "Tokens Are Running Out"
